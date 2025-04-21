@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mounib!
 
-<!--
-**Mounib-Creates/Mounib-Creates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with a growing passion for cloud computing, DevOps, and systems engineering. What started as curiosity has become a journey of continuous learning, hands-on experimentation, and real-world project building.
 
-Here are some ideas to get you started:
+### 🧠 What I'm learning:
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD pipelines with GitHub Actions
+- **Systems & Scripting:** Linux, networking, shell scripting, system fundamentals
+- **Development Tools:** Git, Python, Java, databases, monitoring tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’ve built:
+- CI/CD pipelines to streamline development and deployment
+- Containerized apps deployed on Kubernetes clusters
+- Automated AWS infrastructure setup using the AWS CLI
+
+### 💬 What I value:
+Collaboration, problem-solving, and learning by doing. I'm the kind of teammate who’ll debug by your side and share every step of the journey.
+
+### 📌 Let's connect!
+If you're into IT, DevOps, or just want to talk tech, feel free to connect or check out my work.  
+🔗 [LinkedIn](www.linkedin.com/in/mounibbensalah)  
+📁 [GitLab](https://github.com/Mounib-Creates)
+
+---
+
+Thanks for visiting!  
+Let’s build, break, and learn together. ⚙️🚀
