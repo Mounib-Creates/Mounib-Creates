@@ -18,7 +18,7 @@ Collaboration, problem-solving, and learning by doing. I'm the kind of teammate 
 ### 📌 Let's connect!
 If you're into IT, DevOps, or just want to talk tech, feel free to connect or check out my work.  
 🔗 [LinkedIn](www.linkedin.com/in/mounibbensalah)  
-📁 [GitLab](https://github.com/Mounib-Creates)
+📁 [GitHub](https://github.com/Mounib-Creates)
 
 ---
 
